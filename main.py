@@ -25,7 +25,7 @@ async def main():
     bot = Bot(
         token=BOT_TOKEN,
         default=DefaultBotProperties(parse_mode=ParseMode.HTML),
-        session=AiohttpSession(proxy="http://127.0.0.1:10809"),
+        session=AiohttpSession(proxy=""),
     )
     storage = MemoryStorage()
     dp      = Dispatcher(storage=storage)
