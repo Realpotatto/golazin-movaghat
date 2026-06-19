@@ -1,0 +1,102 @@
+{
+  "dfb3ba18-3e76-4b5e-860e-711e046b8aed": {
+    "id": "dfb3ba18-3e76-4b5e-860e-711e046b8aed",
+    "title": "خرید",
+    "fields": [
+      {
+        "name": "field_1",
+        "label": "سوال\nجواب با متن آزاد",
+        "type": "text",
+        "required": false,
+        "options": [],
+        "validation_regex": "",
+        "error_message": "",
+        "order": 0
+      },
+      {
+        "name": "field_2",
+        "label": "سوال\nجواب با عدد\nاختیاری",
+        "type": "number",
+        "required": false,
+        "options": [],
+        "validation_regex": "",
+        "error_message": "",
+        "order": 1
+      },
+      {
+        "name": "field_3",
+        "label": "سوال\nجواب با ایمیل",
+        "type": "email",
+        "required": false,
+        "options": [],
+        "validation_regex": "",
+        "error_message": "",
+        "order": 2
+      },
+      {
+        "name": "field_4",
+        "label": "سوال\nجواب با عکس",
+        "type": "photo",
+        "required": true,
+        "options": [],
+        "validation_regex": "",
+        "error_message": "",
+        "order": 3
+      },
+      {
+        "name": "field_5",
+        "label": "سوال\nجواب با گزینه",
+        "type": "select",
+        "required": true,
+        "options": [
+          "محل کار",
+          "خانه",
+          "استودیو",
+          "غیره"
+        ],
+        "validation_regex": "",
+        "error_message": "",
+        "order": 4
+      },
+      {
+        "name": "field_6",
+        "label": "سوال\nجواب با اشتراک گزاری تلفن\nبه 2 روش\nروش 1",
+        "type": "phone",
+        "required": true,
+        "options": [],
+        "validation_regex": "",
+        "error_message": "",
+        "order": 5
+      },
+      {
+        "name": "field_7",
+        "label": "روش 2",
+        "type": "share_phone",
+        "required": true,
+        "options": [],
+        "validation_regex": "",
+        "error_message": "",
+        "order": 6
+      }
+    ],
+    "destination_group": "-1003994778072",
+    "destination_admin_ids": [],
+    "thank_you_message": "تستتت",
+    "is_active": true,
+    "notify_admin": true,
+    "allow_edit": false,
+    "created_at": "2026-06-15T20:06:54.476680"
+  },
+  "bc03801a-0a25-4529-9d2c-275f34b4aa17": {
+    "id": "bc03801a-0a25-4529-9d2c-275f34b4aa17",
+    "title": "فرم بدون عنوان",
+    "fields": [],
+    "destination_group": "",
+    "destination_admin_ids": [],
+    "thank_you_message": "فرم شما با موفقیت ثبت شد\\. ✅",
+    "is_active": true,
+    "notify_admin": true,
+    "allow_edit": false,
+    "created_at": "2026-06-15T20:07:11.305698"
+  }
+}

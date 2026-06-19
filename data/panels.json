@@ -1,0 +1,306 @@
+{
+  "b52d9a1d-f876-435b-81ac-9ab067ba4960": {
+    "id": "b52d9a1d-f876-435b-81ac-9ab067ba4960",
+    "title": "ص خانه",
+    "type": "photo",
+    "content": "تستتت",
+    "media_file_id": "AgACAgQAAxkBAAIGIGowRmX4d-VxMAxwRaE0XJ6ArW06AALkFWsbfwhxUUiFPh4JGvreAQADAgADeQADPAQ",
+    "buttons": [
+      {
+        "label": "لامپ های رشد",
+        "action": "panel",
+        "value": "6f3ad571-56dd-4511-a837-977710a6f857",
+        "row": 0,
+        "col": 0,
+        "style": "success"
+      },
+      {
+        "label": "تماس با ما ☎️",
+        "action": "panel",
+        "value": "aef9711f-90e5-45b1-9731-4b9340e01c8a",
+        "row": 0,
+        "col": 0,
+        "style": "danger"
+      }
+    ],
+    "settings": {},
+    "children": [
+      "6f3ad571-56dd-4511-a837-977710a6f857",
+      "aef9711f-90e5-45b1-9731-4b9340e01c8a"
+    ],
+    "parent_id": null,
+    "is_home": true,
+    "is_active": true,
+    "created_at": "2026-06-15T18:40:22.553173",
+    "updated_at": "2026-06-15T19:53:33.195406"
+  },
+  "6f3ad571-56dd-4511-a837-977710a6f857": {
+    "id": "6f3ad571-56dd-4511-a837-977710a6f857",
+    "title": "ص لامپ رشد",
+    "type": "carousel",
+    "content": "",
+    "media_file_id": "AgACAgQAAxkBAAIGJmowRuiqzPWYYFTuECfJSnxoyRBzAAKfDmsbbhCBUauWSCXGlDBVAQADAgADeQADPAQ",
+    "buttons": [
+      {
+        "label": "چراغ 30w نور روز ☀️",
+        "action": "panel",
+        "value": "e5383146-d68b-4331-a149-07e11e054335",
+        "row": 0,
+        "col": 0,
+        "style": null
+      },
+      {
+        "label": "چراغ 30w نور رشد🪴",
+        "action": "panel",
+        "value": "2a1e3daa-9a63-476d-b872-df3c7a5abfc0",
+        "row": 0,
+        "col": 0,
+        "style": null
+      },
+      {
+        "label": "چراغ 50w نور روز ☀️",
+        "action": "panel",
+        "value": "26c2ae2c-cd58-40c1-91b3-394c324b5a2d",
+        "row": 1,
+        "col": 0,
+        "style": null
+      },
+      {
+        "label": "چراغ 50w نور رشد🪴",
+        "action": "panel",
+        "value": "4287721f-a55d-4d76-9ffc-58b99c9509f3",
+        "row": 1,
+        "col": 0,
+        "style": null
+      },
+      {
+        "label": "چراغ پایه‌دار 30w نور روز ☀️",
+        "action": "panel",
+        "value": "bf0161cc-40b5-427d-b0d9-6a238be669b1",
+        "row": 2,
+        "col": 0,
+        "style": "success"
+      },
+      {
+        "label": "چراغ پایه‌دار 30w نور رشد🪴",
+        "action": "panel",
+        "value": "3e8d9310-367f-4ce3-b784-5aa06bbdbe17",
+        "row": 2,
+        "col": 0,
+        "style": "danger"
+      },
+      {
+        "label": "چراغ پایه‌دار 50w نور روز ☀️",
+        "action": "panel",
+        "value": "efdc5479-a8d1-4e9a-8c08-1ed6d01254dc",
+        "row": 3,
+        "col": 0,
+        "style": "success"
+      },
+      {
+        "label": "چراغ پایه‌دار 50w نور رشد🪴",
+        "action": "panel",
+        "value": "a525aee2-650b-48e2-8507-935296d58db5",
+        "row": 3,
+        "col": 0,
+        "style": "danger"
+      }
+    ],
+    "settings": {
+      "carousel_ids": [
+        "AgACAgQAAxkBAAIGJmowRuiqzPWYYFTuECfJSnxoyRBzAAKfDmsbbhCBUauWSCXGlDBVAQADAgADeQADPAQ"
+      ]
+    },
+    "children": [
+      "bf0161cc-40b5-427d-b0d9-6a238be669b1",
+      "3e8d9310-367f-4ce3-b784-5aa06bbdbe17",
+      "efdc5479-a8d1-4e9a-8c08-1ed6d01254dc",
+      "a525aee2-650b-48e2-8507-935296d58db5",
+      "e5383146-d68b-4331-a149-07e11e054335",
+      "4287721f-a55d-4d76-9ffc-58b99c9509f3",
+      "2a1e3daa-9a63-476d-b872-df3c7a5abfc0",
+      "26c2ae2c-cd58-40c1-91b3-394c324b5a2d"
+    ],
+    "parent_id": "b52d9a1d-f876-435b-81ac-9ab067ba4960",
+    "is_home": false,
+    "is_active": true,
+    "created_at": "2026-06-15T18:44:17.846784",
+    "updated_at": "2026-06-15T19:53:43.153081"
+  },
+  "bf0161cc-40b5-427d-b0d9-6a238be669b1": {
+    "id": "bf0161cc-40b5-427d-b0d9-6a238be669b1",
+    "title": "ص 30 دکوراتیو",
+    "type": "carousel",
+    "content": "تستتت",
+    "media_file_id": "AgACAgQAAxkBAAIF72owO1sE_8ssY5uh8RdeArFxqktDAAKJDmsbbhCBUdj9KE1Z7vB9AQADAgADeAADPAQ",
+    "buttons": [
+      {
+        "label": "خرید محصول 🛒",
+        "action": "form",
+        "value": "dfb3ba18-3e76-4b5e-860e-711e046b8aed",
+        "row": 0,
+        "col": 0,
+        "style": "danger"
+      }
+    ],
+    "settings": {
+      "carousel_ids": [
+        "AgACAgQAAxkBAAIF72owO1sE_8ssY5uh8RdeArFxqktDAAKJDmsbbhCBUdj9KE1Z7vB9AQADAgADeAADPAQ"
+      ]
+    },
+    "children": [],
+    "parent_id": "6f3ad571-56dd-4511-a837-977710a6f857",
+    "is_home": false,
+    "is_active": true,
+    "created_at": "2026-06-15T18:46:11.012118",
+    "updated_at": "2026-06-15T20:26:13.672858"
+  },
+  "3e8d9310-367f-4ce3-b784-5aa06bbdbe17": {
+    "id": "3e8d9310-367f-4ce3-b784-5aa06bbdbe17",
+    "title": "ص 30 فول",
+    "type": "carousel",
+    "content": "تستتت",
+    "media_file_id": "AgACAgQAAxkBAAIGMGowR_UuLgIoKXRehdo_Ek1QPt1_AAKiDmsbbhCBUYJbepAEDwL_AQADAgADeAADPAQ",
+    "buttons": [],
+    "settings": {
+      "carousel_ids": [
+        "AgACAgQAAxkBAAIGMGowR_UuLgIoKXRehdo_Ek1QPt1_AAKiDmsbbhCBUYJbepAEDwL_AQADAgADeAADPAQ"
+      ]
+    },
+    "children": [],
+    "parent_id": "6f3ad571-56dd-4511-a837-977710a6f857",
+    "is_home": false,
+    "is_active": true,
+    "created_at": "2026-06-15T18:47:11.344432",
+    "updated_at": "2026-06-15T19:32:38.016525"
+  },
+  "efdc5479-a8d1-4e9a-8c08-1ed6d01254dc": {
+    "id": "efdc5479-a8d1-4e9a-8c08-1ed6d01254dc",
+    "title": "ص 50 دکوراتیو",
+    "type": "carousel",
+    "content": "تستتت",
+    "media_file_id": "AgACAgQAAxkBAAIGLGowR72_LmRQy21vcPQld6XF85P9AAKgDmsbbhCBUY1HybzKHhHUAQADAgADeAADPAQ",
+    "buttons": [],
+    "settings": {
+      "carousel_ids": [
+        "AgACAgQAAxkBAAIGLGowR72_LmRQy21vcPQld6XF85P9AAKgDmsbbhCBUY1HybzKHhHUAQADAgADeAADPAQ"
+      ]
+    },
+    "children": [],
+    "parent_id": "6f3ad571-56dd-4511-a837-977710a6f857",
+    "is_home": false,
+    "is_active": true,
+    "created_at": "2026-06-15T18:49:08.315069",
+    "updated_at": "2026-06-15T19:33:16.057340"
+  },
+  "a525aee2-650b-48e2-8507-935296d58db5": {
+    "id": "a525aee2-650b-48e2-8507-935296d58db5",
+    "title": "ص 50 فول",
+    "type": "carousel",
+    "content": "تستتت",
+    "media_file_id": "AgACAgQAAxkBAAIGMmowSAABQ5TcJ7FhJUOZLD_Plu3L_QACow5rG24QgVF00urlyM6pzgEAAwIAA3gAAzwE",
+    "buttons": [],
+    "settings": {
+      "carousel_ids": [
+        "AgACAgQAAxkBAAIGMmowSAABQ5TcJ7FhJUOZLD_Plu3L_QACow5rG24QgVF00urlyM6pzgEAAwIAA3gAAzwE"
+      ]
+    },
+    "children": [],
+    "parent_id": "6f3ad571-56dd-4511-a837-977710a6f857",
+    "is_home": false,
+    "is_active": true,
+    "created_at": "2026-06-15T18:49:43.073267",
+    "updated_at": "2026-06-15T19:33:46.044085"
+  },
+  "e5383146-d68b-4331-a149-07e11e054335": {
+    "id": "e5383146-d68b-4331-a149-07e11e054335",
+    "title": "ص 30 دکوراتیو پروژکتور",
+    "type": "carousel",
+    "content": "تستتت",
+    "media_file_id": "AgACAgQAAxkBAAIGRmowSOBDItOLXFeF8wc7WHjONjrwAAKkDmsbbhCBUR6Vo_0q5_gSAQADAgADeAADPAQ",
+    "buttons": [],
+    "settings": {
+      "carousel_ids": [
+        "AgACAgQAAxkBAAIGRmowSOBDItOLXFeF8wc7WHjONjrwAAKkDmsbbhCBUR6Vo_0q5_gSAQADAgADeAADPAQ"
+      ]
+    },
+    "children": [],
+    "parent_id": "6f3ad571-56dd-4511-a837-977710a6f857",
+    "is_home": false,
+    "is_active": true,
+    "created_at": "2026-06-15T18:51:29.737476",
+    "updated_at": "2026-06-15T19:36:44.172660"
+  },
+  "4287721f-a55d-4d76-9ffc-58b99c9509f3": {
+    "id": "4287721f-a55d-4d76-9ffc-58b99c9509f3",
+    "title": "ص 50 فول پروژکتور",
+    "type": "carousel",
+    "content": "تستتت",
+    "media_file_id": "AgACAgQAAxkBAAIGRmowSOBDItOLXFeF8wc7WHjONjrwAAKkDmsbbhCBUR6Vo_0q5_gSAQADAgADeAADPAQ",
+    "buttons": [],
+    "settings": {
+      "carousel_ids": [
+        "AgACAgQAAxkBAAIGRmowSOBDItOLXFeF8wc7WHjONjrwAAKkDmsbbhCBUR6Vo_0q5_gSAQADAgADeAADPAQ"
+      ]
+    },
+    "children": [],
+    "parent_id": "6f3ad571-56dd-4511-a837-977710a6f857",
+    "is_home": false,
+    "is_active": true,
+    "created_at": "2026-06-15T18:52:15.392098",
+    "updated_at": "2026-06-15T19:37:12.403507"
+  },
+  "2a1e3daa-9a63-476d-b872-df3c7a5abfc0": {
+    "id": "2a1e3daa-9a63-476d-b872-df3c7a5abfc0",
+    "title": "ص 30 فول پروژکتور",
+    "type": "carousel",
+    "content": "تستتت",
+    "media_file_id": "AgACAgQAAxkBAAIGRmowSOBDItOLXFeF8wc7WHjONjrwAAKkDmsbbhCBUR6Vo_0q5_gSAQADAgADeAADPAQ",
+    "buttons": [],
+    "settings": {
+      "carousel_ids": [
+        "AgACAgQAAxkBAAIGRmowSOBDItOLXFeF8wc7WHjONjrwAAKkDmsbbhCBUR6Vo_0q5_gSAQADAgADeAADPAQ"
+      ]
+    },
+    "children": [],
+    "parent_id": "6f3ad571-56dd-4511-a837-977710a6f857",
+    "is_home": false,
+    "is_active": true,
+    "created_at": "2026-06-15T19:03:24.478197",
+    "updated_at": "2026-06-15T19:37:33.287951"
+  },
+  "26c2ae2c-cd58-40c1-91b3-394c324b5a2d": {
+    "id": "26c2ae2c-cd58-40c1-91b3-394c324b5a2d",
+    "title": "ص 50 دکوراتیو پروژکتور",
+    "type": "carousel",
+    "content": "تستتت",
+    "media_file_id": "AgACAgQAAxkBAAIGRmowSOBDItOLXFeF8wc7WHjONjrwAAKkDmsbbhCBUR6Vo_0q5_gSAQADAgADeAADPAQ",
+    "buttons": [],
+    "settings": {
+      "carousel_ids": [
+        "AgACAgQAAxkBAAIGRmowSOBDItOLXFeF8wc7WHjONjrwAAKkDmsbbhCBUR6Vo_0q5_gSAQADAgADeAADPAQ"
+      ]
+    },
+    "children": [],
+    "parent_id": "6f3ad571-56dd-4511-a837-977710a6f857",
+    "is_home": false,
+    "is_active": true,
+    "created_at": "2026-06-15T19:04:04.189844",
+    "updated_at": "2026-06-15T19:37:52.748126"
+  },
+  "aef9711f-90e5-45b1-9731-4b9340e01c8a": {
+    "id": "aef9711f-90e5-45b1-9731-4b9340e01c8a",
+    "title": "تماس با ما ☎️",
+    "type": "photo",
+    "content": "تستتت",
+    "media_file_id": "AgACAgQAAxkBAAIHCWowVlVhHcLQeCbVFUFhSOvJo9dSAAL0DmsbbhCBUUaFnec9WBuoAQADAgADeQADPAQ",
+    "buttons": [],
+    "settings": {},
+    "children": [],
+    "parent_id": "b52d9a1d-f876-435b-81ac-9ab067ba4960",
+    "is_home": false,
+    "is_active": true,
+    "created_at": "2026-06-15T19:48:25.918717",
+    "updated_at": "2026-06-15T19:53:33.194406"
+  }
+}

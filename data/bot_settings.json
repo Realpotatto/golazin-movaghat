@@ -1,0 +1,40 @@
+{
+  "language": "fa",
+  "welcome_msg": "سلام! به ربات خوش آمدید. 👋",
+  "error_msg": "خطایی رخ داد. لطفاً دوباره تلاش کنید.",
+  "not_found_msg": "این بخش یافت نشد.",
+  "panel_inactive_msg": "این بخش فعلاً غیرفعال است. لطفاً بعداً مراجعه کنید.",
+  "banned_msg": "شما از استفاده از این ربات محروم شده‌اید.",
+  "maintenance_msg": "ربات در حال تعمیر است. به زودی برمی‌گردیم! 🔧",
+  "watermark": "",
+  "watermark_enabled": false,
+  "maintenance": false,
+  "force_join_channels": [],
+  "force_join_message": "برای استفاده از ربات ابتدا در کانال‌های زیر عضو شوید:",
+  "working_hours": {
+    "enabled": false,
+    "open_time": "09:00",
+    "close_time": "21:00",
+    "days": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "closed_message": "ربات در حال حاضر فعال نیست. لطفاً بعداً تلاش کنید."
+  },
+  "anti_flood": {
+    "enabled": true,
+    "max_messages": 5,
+    "interval_seconds": 5,
+    "ban_duration_seconds": 60,
+    "warn_message": "⚠️ لطفاً کمی صبر کنید."
+  },
+  "home_panel_id": "b52d9a1d-f876-435b-81ac-9ab067ba4960",
+  "support_username": "",
+  "support_message": "برای پشتیبانی با {support} تماس بگیرید.",
+  "currency": "تومان",
+  "payment_info": "",
+  "updated_at": "2026-06-14T19:12:59.135669"
+}

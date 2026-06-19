@@ -1,0 +1,90 @@
+{
+  "6186037935": {
+    "user_id": "6186037935",
+    "username": "Ali_dadaa",
+    "first_name": "𝐀𝐥𝐢",
+    "last_name": "𝐃𝐚𝐫𝐚 🏀",
+    "language": "fa",
+    "profile_data": {
+      "phone": "+989935479571"
+    },
+    "orders": [
+      {
+        "form_id": "dfb3ba18-3e76-4b5e-860e-711e046b8aed",
+        "form_title": "خرید",
+        "answers": {
+          "field_1": {
+            "label": "سوال\nجواب با متن آزاد",
+            "value": "تست",
+            "type": "text"
+          },
+          "field_2": {
+            "label": "سوال\nجواب با عدد\nاختیاری",
+            "value": "827373",
+            "type": "number"
+          },
+          "field_3": {
+            "label": "سوال\nجواب با ایمیل",
+            "value": "@mashty.gmail.com",
+            "type": "email"
+          },
+          "field_4": {
+            "label": "سوال\nجواب با عکس",
+            "value": "AgACAgQAAxkBAAIHX2owXBBx01a18XU5SWRUkliHAAFAagAC-Q5rG24QgVFMOVeV2oawfgEAAwIAA3kAAzwE",
+            "type": "photo"
+          },
+          "field_5": {
+            "label": "سوال\nجواب با گزینه",
+            "value": "خانه",
+            "type": "select"
+          },
+          "field_6": {
+            "label": "سوال\nجواب با اشتراک گزاری تلفن\nبه 2 روش\nروش 1",
+            "value": "09935479571",
+            "type": "phone"
+          },
+          "field_7": {
+            "label": "روش 2",
+            "value": "989935479571",
+            "type": "share_phone"
+          }
+        },
+        "submitted_at": "2026-06-15T20:13:16.921393",
+        "has_receipt": true
+      }
+    ],
+    "is_admin": true,
+    "is_banned": false,
+    "ban_reason": "",
+    "current_panel": null,
+    "current_form": null,
+    "form_data": {},
+    "flood_timestamps": [
+      "2026-06-14T19:12:29.559861"
+    ],
+    "joined_at": "2026-06-14T19:12:19.884864",
+    "last_seen": "2026-06-15T21:04:32.629620",
+    "referral_by": null,
+    "notes": ""
+  },
+  "264821834": {
+    "user_id": "264821834",
+    "username": "s_dara",
+    "first_name": "S_",
+    "last_name": "Dara",
+    "language": "fa",
+    "profile_data": {},
+    "orders": [],
+    "is_admin": false,
+    "is_banned": false,
+    "ban_reason": "",
+    "current_panel": null,
+    "current_form": null,
+    "form_data": {},
+    "flood_timestamps": [],
+    "joined_at": "2026-06-15T18:01:29.950657",
+    "last_seen": "2026-06-15T18:01:29.950657",
+    "referral_by": null,
+    "notes": ""
+  }
+}
